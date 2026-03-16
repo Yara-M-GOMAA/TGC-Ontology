@@ -27,12 +27,9 @@
         <dcterms:title xml:lang="en">Teacher in Gamified Context Ontology</dcterms:title> 
         <dcterms:description xml:lang="en">The TGC ontology models teachers, pedagogical resources, gamified resources, educational topics, and collaboration spaces in gamified e-learning environments.</dcterms:description>
         <dcterms:creator>Yara Gomaa</dcterms:creator> 
-        <dcterms:creator>Marie-Helene Abel</dcterms:creator> 
-        <dcterms:creator>Christine Lahoud</dcterms:creator> 
+       <dcterms:identifier>https://zenodo.org/records/19048735</dcterms:identifier>
         <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-16</dcterms:issued> 
         <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-16</dcterms:modified> 
-        <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/> 
-        <dcterms:publisher>TechnoPortal</dcterms:publisher> 
         <dcterms:identifier>http://www.hds.utc.fr/tgc/tbox</dcterms:identifier> 
         <dcat:accessURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology"/> 
         <dcat:downloadURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology/blob/master/TGC3March2026.owl"/> 
