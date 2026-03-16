@@ -14,3 +14,5 @@ This prject is part of a PhD research work at the University of Technology of Co
 For more information, please contact us through ( yara.gomaa@hds.utc.fr - yara.maher@ufe.edu.eg) with the subject title "TGC Assistance"
 
 DOI: [10.5281/zenodo.19048503 ](https://doi.org/10.5281/zenodo.19048502)
+
+FAIR-based Ontology Evaluation: [![91.67 % FAIR](https://img.shields.io/badge/FAIR_assessment-91.67_%25-green)](https://fair-checker.france-bioinformatique.fr/assessment/69b7f1254f774c936ae28f2a)
