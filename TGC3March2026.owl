@@ -31,8 +31,8 @@
         <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-16</dcterms:issued> 
         <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-16</dcterms:modified> 
         <dcterms:identifier>http://www.hds.utc.fr/tgc/tbox</dcterms:identifier> 
-        <dcat:accessURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology"/> 
-        <dcat:downloadURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology/blob/master/TGC3March2026.owl"/> 
+        <dcat:accessURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology"/>
+<dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/Yara-M-GOMAA/TGC-Ontology/master/TGC3March2026.owl"/> 
     </owl:Ontology>
     
 
