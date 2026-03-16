@@ -16,8 +16,26 @@
      xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
      xmlns:MC2SOIS="http://www.hds.utc.fr/mc2sois/tbox#">
+     xmlns:dcterms="http://purl.org/dc/terms/"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
     <owl:Ontology rdf:about="http://www.hds.utc.fr/tgc/tbox">
         <owl:versionIRI rdf:resource="http://www.hds.utc.fr/tgc/tbox/1.0.0"/>
+<rdfs:label xml:lang="en">Teacher in Gamified Context Ontology</rdfs:label>
+        <rdfs:comment xml:lang="en">An ontology for modeling teachers, gamified resources, game elements, educational topics, and collaborative sharing spaces in gamified e-learning environments.</rdfs:comment>
+        <owl:versionInfo>1.0.0</owl:versionInfo> 
+        
+        <dcterms:title xml:lang="en">Teacher in Gamified Context Ontology</dcterms:title> 
+        <dcterms:description xml:lang="en">The TGC ontology models teachers, pedagogical resources, gamified resources, educational topics, and collaboration spaces in gamified e-learning environments.</dcterms:description>
+        <dcterms:creator>Yara Gomaa</dcterms:creator> 
+        <dcterms:creator>Marie-Helene Abel</dcterms:creator> 
+        <dcterms:creator>Christine Lahoud</dcterms:creator> 
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-16</dcterms:issued> 
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-16</dcterms:modified> 
+        <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/> 
+        <dcterms:publisher>TechnoPortal</dcterms:publisher> 
+        <dcterms:identifier>http://www.hds.utc.fr/tgc/tbox</dcterms:identifier> 
+        <dcat:accessURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology"/> 
+        <dcat:downloadURL rdf:resource="https://github.com/Yara-M-GOMAA/TGC-Ontology/blob/master/TGC3March2026.owl"/> 
     </owl:Ontology>
     
 
