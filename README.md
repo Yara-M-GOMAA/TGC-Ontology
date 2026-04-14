@@ -10,6 +10,12 @@ The Intended Uses: To support teachers in finding relevant gamified resources an
 
 #License
 This project is part of a PhD research work at the University of Technology of Compiegne (UTC), France. UMR CNRS 7253 , laboratoire HEUDIASYC
+Under the supervision of:
+Marie-Hélène Abel - Laboratoire HEUDIASYC, Université de technologie de Compiègne, Sorbonne Universités, 57 Avenue Landshut,
+Compiègne 60200, France, {marie-helene.abel@hds.utc.fr} 
+Sherin Moussa  - Laboratoire Interdisciplinaire de l’Université Française d’Egypte (UFEID Lab), Université Française d’Egypte, 21 Ismailia Desert Road Shorouk City, Cairo 11837, Egypt, {sherin.moussa@ufe.edu.eg}
+Christine Lahoud - Université de Technologie de Belfort Montbéliard, UTBM, CIAD UR 7533, Belfort cedex, France {christine.lahoud@utbm.fr}
+
 
 For more information, please contact us through ( yara.gomaa@hds.utc.fr - yara.maher@ufe.edu.eg) with the subject title "TGC Assistance"
 
